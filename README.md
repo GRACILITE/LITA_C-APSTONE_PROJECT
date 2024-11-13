@@ -182,3 +182,18 @@ ORDER BY Product
 
 ### VISUALIZATION
 ----
+
+![SALES 1](https://github.com/user-attachments/assets/2a9ce34e-4c0a-45fe-ac07-1d75cd1d9392)
+
+![SALES 2](https://github.com/user-attachments/assets/18f64904-52f2-4311-b517-bfc7b290e88e)
+
+![SALES 3](https://github.com/user-attachments/assets/436da2d8-a729-480e-87dd-951f17037e5c)
+
+![SALES 4](https://github.com/user-attachments/assets/de16c1af-3d9f-4d4d-af15-cb4f8c2e2e0d)
+
+![SALES 5](https://github.com/user-attachments/assets/4c1a9b83-559a-4ddb-86d5-9dfb99df0856)
+
+![SALES 6](https://github.com/user-attachments/assets/7dca5e1b-0e6c-47d8-92d8-79f271d44cf0)
+
+![SALES 7](https://github.com/user-attachments/assets/516f3337-323a-4fbb-89ee-4469ea839dc8)
+
